@@ -1,0 +1,24 @@
+#{
+#  users{
+#    id
+#    name
+#  }
+#}
+#mutation {
+#  addUser(name: "Shraddha"){
+#    id
+#  }
+#}
+#mutation {
+#  updateUser(id:"5cb3f159bd4b8590b09e1491"
+#  name: "Mrunal Hirve") {
+#    id
+#    name
+#  }
+#}
+#mutation {
+#  removeUser(id: "5cb3f460bd4b8590b09e1495"){
+#    id
+#    name
+#  }
+#}
